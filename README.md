@@ -37,6 +37,14 @@ downward oriented the average ratio of both eyes is used.
 If the face is oriented to the left, only the ratio of the right eye will be 
 used. Vice versa if the face is oriented to the right.
 
+USE OF THE ENVIRONMENT
+
+- python -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+For deactive:
+- deactivate
+
 NOTE:
 
 The program is sensible to camera positioning. It works best when the angle of 
