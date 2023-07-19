@@ -1,9 +1,5 @@
-*******************************************************************************
-*                                                                             *
-*                BLINK DETECTOR SENSIBLE TO FACIAL ORIENTATION                *
-*                               BY NORINA GROSCH                              *
-*                                                                             *
-*******************************************************************************
+#                BLINK DETECTOR SENSIBLE TO FACIAL ORIENTATION
+#                               BY NORINA GROSCH
 
 REQUIREMENTS:
 
